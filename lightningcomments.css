@@ -33,3 +33,14 @@
 /* #lncomments_checkbox_field_0 {
   visibility: hidden;
 } */
+
+#qr {
+  display: block;
+  margin: 0 auto;
+  background: linear-gradient(135deg, orange, purple);
+  padding: 10px; /* Adjust padding as needed */
+  border-radius: 10px; /* Optional: adds rounded corners */
+  width: 300px; /* Ensure consistent size */
+  height: 300px; /* Ensure consistent size */
+  box-sizing: border-box; /* Ensure padding doesn't affect the size */
+}
